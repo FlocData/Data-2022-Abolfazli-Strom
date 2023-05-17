@@ -3,4 +3,4 @@ Data associated with the paper by Abolfazli and Strom (2022) on the effects of s
 
 Floc size data are available in the Size_data folder. Columns represent minutes. Values are in microns.
 
-
+[![DOI](https://zenodo.org/badge/601766405.svg)](https://zenodo.org/badge/latestdoi/601766405)
